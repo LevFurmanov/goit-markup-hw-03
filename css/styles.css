@@ -63,7 +63,7 @@ body{
 }
 
 .logo-end{
-    color: var(--title-text-color)
+    color: var(--title-text-color);
 }   
 
 .fulnav{
